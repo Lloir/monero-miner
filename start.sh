@@ -14,4 +14,5 @@ sleep 4
 
 xmrig -o $MINER_POOL \
       -u $WALLET_ADDRESS \
+      --tls \
       -p $RESIN_DEVICE_NAME_AT_INIT
