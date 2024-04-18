@@ -22,7 +22,7 @@ Support Monero blockchain, validating the transactions by lending your compute p
 
 You can deploy this app to a new balenaCloud fleet in one click using the button below:
 
-[![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/iayanpahwa/monero-miner)
+[![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Lloir/monero-miner/)
 
 
 Or, you can create a fleet in your balenaCloud dashboard, clone this repo and `balena push` this code to it, the traditional way.
